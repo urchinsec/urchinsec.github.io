@@ -1,2 +1,2 @@
 # urchinsec.github.io
-A website for the UrchinSec community
+A gitpage for the UrchinSec community
